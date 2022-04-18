@@ -1,0 +1,3 @@
+INSERT INTO product (id, name, description, price, pictureurl, productcategory) VALUES(1,'Name1','description1',101, 'url1.com', 'COMPUTERS');
+INSERT INTO product (id, name, description, price, pictureurl, productcategory) VALUES(2,'Name2','description2',102, 'url2.com', 'SMARTPHONES');
+INSERT INTO product (id, name, description, price, pictureurl, productcategory) VALUES(3,'Name3','description3',103, 'url3.com', 'SMART_HOME_DEVICES');

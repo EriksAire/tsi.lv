@@ -3,9 +3,7 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/hello/pom.xml" />
-        <option value="$PROJECT_DIR$/book/pom.xml" />
-        <option value="$PROJECT_DIR$/blog/pom.xml" />
+        <option value="$PROJECT_DIR$/WebshopApplication-master/pom.xml" />
       </list>
     </option>
     <option name="ignoredPathMasks">
