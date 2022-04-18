@@ -1,6 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_14" default="false" project-jdk-name="15" project-jdk-type="JavaSDK">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/hello/pom.xml" />
+        <option value="$PROJECT_DIR$/book/pom.xml" />
+        <option value="$PROJECT_DIR$/blog/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredPathMasks">
+      <list>
+        <option value="HELP.md" />
+        <option value="target/" />
+        <option value="!.mvn/wrapper/maven-wrapper.jar" />
+        <option value="!**/src/main/**/target/" />
+        <option value="!**/src/test/**/target/" />
+        <option value="###" />
+        <option value="STS" />
+        <option value="###" />
+        <option value=".apt_generated" />
+        <option value=".classpath" />
+        <option value=".factorypath" />
+        <option value=".project" />
+        <option value=".settings" />
+        <option value=".springBeans" />
+        <option value=".sts4-cache" />
+        <option value="###" />
+        <option value="IntelliJ" />
+        <option value="IDEA" />
+        <option value="###" />
+        <option value=".idea" />
+        <option value="*.iws" />
+        <option value="*.iml" />
+        <option value="*.ipr" />
+        <option value="###" />
+        <option value="NetBeans" />
+        <option value="###" />
+        <option value="/nbproject/private/" />
+        <option value="/nbbuild/" />
+        <option value="/dist/" />
+        <option value="/nbdist/" />
+        <option value="/.nb-gradle/" />
+        <option value="build/" />
+        <option value="!**/src/main/**/build/" />
+        <option value="!**/src/test/**/build/" />
+        <option value="###" />
+        <option value="VS" />
+        <option value="Code" />
+        <option value="###" />
+        <option value=".vscode/" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_14" project-jdk-name="15" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
